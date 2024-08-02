@@ -1,10 +1,11 @@
 ```
-#H1 MatchMakingApp
+MatchMakingApp
 
-### H3 Overview
+Overview
 This project involved enhancing a FastAPI-based backend application for a Marriage Matchmaking App. The tasks included implementing endpoints for updating and deleting user profiles, finding potential matches, and validating email addresses.
-### H3 Approach
-#### H4 Project Structure Analysis:
+
+Approach
+Project Structure Analysis:
 I followed the existing structure with files like main.py, models.py, database.py, and schemas.py.
 
 Endpoint Implementation:
